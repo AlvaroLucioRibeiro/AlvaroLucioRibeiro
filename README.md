@@ -8,5 +8,6 @@
  <img align = "center" alt="Álvaro-C++" height="30" width="40" src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg">
  <img align = "center" alt="Álvaro-Java" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTThr5w6l4CbmTiyJYYoPxJAJGRMqARm7E462J6C8uHaQ&s">
   
-  <div> 
+  </div> 
   ![Snake animation](https://github.com/AlvaroLucioRibeiro/AlvaroLucioRibeiro/blob/output/github-contribution-grid-snake.svg)
+</div> 
