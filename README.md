@@ -9,7 +9,8 @@
 </div>
 <div style="display: inline_block"><br>
  <img align = "center" alt="Álvaro-C++" height="30" width="40" src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg">
- <img align = "center" alt="Álvaro-Java" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTThr5w6l4CbmTiyJYYoPxJAJGRMqARm7E462J6C8uHaQ&s"> 
+ <img align = "center" alt="Álvaro-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"> 
+ <img align = "center" alt="Álvaro-VSCode height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   </div> 
   
  ## 
