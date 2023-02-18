@@ -8,9 +8,10 @@
   <img height = "center" src="https://github-readme-stats.vercel.app/api?username=alvarolucioribeiro&show_icons=true&theme=bluesky&include_all_commits=true&count_private=true"/>
 </div>
 <div style="display: inline_block"><br>
- <img align = "center" alt="Álvaro-C++" height="30" width="40" src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg">
- <img align = "center" alt="Álvaro-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"> 
- <img align = "center" alt="Álvaro-VSCode height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+ <img align = "center" alt="Álvaro-C++" height="40" width="40" src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg">
+ <img align = "center" alt="Álvaro-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"> 
+ <img align = "center" alt="Álvaro-VSCode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+ <img align = "center" alt="Álvaro-MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   </div> 
   
  ## 
