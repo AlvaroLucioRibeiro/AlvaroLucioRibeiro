@@ -1,6 +1,7 @@
 ### Olá, sou Álvaro Lúcio Almeida Ribeiro
 
-- 💻 Graduando em Eng. de Software
+- 👨‍🎓 Estudante de Engenharia de Software
+- 💻 Pesquisador de Software Seguro pelo CS&I no Inatel
 
 ## 
 
