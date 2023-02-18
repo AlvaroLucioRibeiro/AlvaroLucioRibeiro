@@ -12,6 +12,12 @@
  <img align = "center" alt="Álvaro-Java" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTThr5w6l4CbmTiyJYYoPxJAJGRMqARm7E462J6C8uHaQ&s"> 
   </div> 
   
+ ## 
+  
+ [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/AlvaroLucioRibeiro)]((https://github.com/AlvaroLucioRibeiro)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alvaro-lucio-almeida-ribeiro/)](https://www.linkedin.com/in/alvaro-lucio-almeida-ribeiro/)
+ 
+  
   ##
   
    ![Snake animation](https://github.com/AlvaroLucioRibeiro/AlvaroLucioRibeiro/blob/output/github-contribution-grid-snake.svg)
