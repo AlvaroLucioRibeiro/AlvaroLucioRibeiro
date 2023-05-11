@@ -7,16 +7,20 @@
 
 <div align="center">
   <img height = "center" src="https://github-readme-stats.vercel.app/api?username=alvarolucioribeiro&show_icons=true&theme=bluesky&count_private=true&include_all_commits=true" />
+  <img height = "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarolucioribeiro" />
 </div>
 <div style="display: inline_block"><br>
   
  <div align="center">
- <img align = "center" alt="Álvaro-C++" height="40" width="40" src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg">
- <img align = "center" alt="Álvaro-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"> 
- <img align = "center" alt="Álvaro-VSCode" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
- <img align = "center" alt="Álvaro-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- <img align = "center" alt="Álvaro-MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
- <img align = "center" alt="Álvaro-SQL" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+  ![Microsoft Office] (https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+  ![VSCode] (https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
   </div> 
   
  ## 
