@@ -1,3 +1,6 @@
+
+![](https://komarev.com/ghpvc/?username=alvarolucioribeiro&color=006bed)
+
 ### Olá, sou Álvaro Lúcio Almeida Ribeiro
 
 - 👨‍🎓 Estudante de Engenharia de Software
