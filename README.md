@@ -7,9 +7,9 @@
 - 💻 Pesquisador de Software Seguro pelo CS&I no Inatel
 
 ## 
+
   <img height = "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarolucioribeiro" />
-</div>
-<div style="display: inline_block"><br>
+  <div style="display: inline_block"><br>
   
  <div align="center">
   <br/>
