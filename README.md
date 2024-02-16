@@ -8,9 +8,11 @@
 
 ## 
 
-  <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarolucioribeiro" />
-  </div>
+  <img height = "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarolucioribeiro" />
+  <div style="display: inline_block"><br>
+  
+ <div align="center">
+  <br/>
 
 ## 
    
