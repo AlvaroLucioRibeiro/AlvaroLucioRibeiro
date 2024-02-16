@@ -8,14 +8,13 @@
 
 ## 
 
-  <img height = "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarolucioribeiro" />
-  <div style="display: inline_block"><br>
-  
- <div align="center">
-  <br/>
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarolucioribeiro" />
+  </p>
 
 ## 
-   
+
+  <!-- Tecnologias -->
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
   ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -33,11 +32,13 @@
   ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
   
   <br/> 
-   
+
+<!-- Links Sociais -->
+<p align="center">
  [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/AlvaroLucioRibeiro)](https://github.com/AlvaroLucioRibeiro)
  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/alvaro-lucio-almeida-ribeiro/)](https://www.linkedin.com/in/alvaro-lucio-almeida-ribeiro/)
  [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:alvaroluciorib@gmail.com)](mailto:alvaroluciorib@gmail.com)
-  
+</p> 
   ##
   
    ![Snake animation](https://github.com/AlvaroLucioRibeiro/AlvaroLucioRibeiro/blob/output/github-contribution-grid-snake.svg)
