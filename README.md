@@ -6,7 +6,7 @@
 - 👨‍🎓 Estudante de Engenharia de Software
 - 💻 Pesquisador de Software Seguro pelo CS&I no Inatel
 
-## 
+##
 
   <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarolucioribeiro" />
@@ -14,7 +14,6 @@
 
 ## 
 
-  <!-- Tecnologias -->
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
   ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -33,14 +32,12 @@
   
   <br/> 
 
-<!-- Links Sociais -->
-<p align="center">
  [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/AlvaroLucioRibeiro)](https://github.com/AlvaroLucioRibeiro)
  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/alvaro-lucio-almeida-ribeiro/)](https://www.linkedin.com/in/alvaro-lucio-almeida-ribeiro/)
  [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:alvaroluciorib@gmail.com)](mailto:alvaroluciorib@gmail.com)
-</p> 
+
   ##
   
-   ![Snake animation](https://github.com/AlvaroLucioRibeiro/AlvaroLucioRibeiro/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/AlvaroLucioRibeiro/AlvaroLucioRibeiro/blob/output/github-contribution-grid-snake.svg)
 
   </div>
