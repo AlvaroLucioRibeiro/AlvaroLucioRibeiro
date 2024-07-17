@@ -4,7 +4,7 @@
 ### Olá, sou Álvaro Lúcio Almeida Ribeiro
 
 - 👨‍🎓 Estudante de Engenharia de Software
-- 💻 Pesquisador de Software Seguro pelo CS&I no Inatel
+- 💻 Estagiário na área de PDI SW pelo Inatel Competence Center
 
 ##
 
