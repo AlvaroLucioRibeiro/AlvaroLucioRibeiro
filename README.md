@@ -3,8 +3,8 @@
 
 ### Olá, sou Álvaro Lúcio Almeida Ribeiro
 
-- 👨‍🎓 Estudante de Engenharia de Software
-- 💻 Estagiário na área de PDI SW pelo Inatel Competence Center
+- 👨‍🎓 Software Engineering Student
+- 💻 Intern in the Software R&D area at Inatel Competence Center
 
 ##
 
