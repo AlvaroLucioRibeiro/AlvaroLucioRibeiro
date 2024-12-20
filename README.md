@@ -1,16 +1,16 @@
 <div align="center">
-    <!-- Badges (Followers and Views) -->
-    <a href="https://github.com/AlvaroLucioRibeiro?tab=followers"><img alt="followers"src="https://custom-icon-badges.herokuapp.com/github/followers/AlvaroLucioRibeiro?color=%23007FFF&labelColor=%23007FFF&style=for-the-badge&label=Followers&logoColor=white"/></a>
-    <a href="https://github.com/AlvaroLucioRibeiro"> <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=AlvaroLucioRibeiro&style=for-the-badge&color=007FFF"/></a>
+    <!-- Badges (Followers and Views) - sem animação -->
+    <a href="https://github.com/AlvaroLucioRibeiro?tab=followers"><img alt="followers" src="https://custom-icon-badges.herokuapp.com/github/followers/AlvaroLucioRibeiro?color=%23007FFF&labelColor=%23007FFF&style=for-the-badge&label=Followers&logoColor=white"/></a>
+    <a href="https://github.com/AlvaroLucioRibeiro"><img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=AlvaroLucioRibeiro&style=for-the-badge&color=007FFF"/></a>
 </div>
 
 <br>
 
 <div align="center">
-    <!-- Animated Typing SVG -->
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=600&pause=1000&color=007FFF&center=true&vCenter=true&multiline=true&repeat=true&random=true&width=435&lines=%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Hi!+I'm+%C3%81lvaro+Ribeiro+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Software+Engineering+Student" alt="Typing SVG"/>
-    </a>
+    <!-- Animação somente em "Hi! I'm Álvaro Ribeiro" -->
+    <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=600&pause=1000&color=007FFF&center=true&vCenter=true&width=435&lines=%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Hi!+I'm+%C3%81lvaro+Ribeiro" alt="Typing SVG"/>
 </div>
+
 
 <br>
 
