@@ -14,9 +14,10 @@
 
 <br>
 
-- 👨‍🎓 Software Engineering Student
-- 💻 Intern in the Software R&D area at Inatel Competence Center
-
+- 👨‍🎓 Software Engineer
+- 💻 Machine Learning Specialist through the PDI SW – Inatel Competence Center (ICC)
+- 🚀 Full Stack Developer
+- 
 ##
   <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarolucioribeiro" />
