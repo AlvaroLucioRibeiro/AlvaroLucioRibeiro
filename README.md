@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Roman&pause=1000&color=FFFFFF&vCenter=true&width=800&height=60&lines=Hi!+I'm+Álvaro+Ribeiro.)](https://git.io/typing-svg)
 
-<img align="right" height="165" width="165" src="gatinho.gif" alt="Gatinho"  />
+<img align="right" height="165" width="165" src="dev.png" alt="Dev"  />
 
 ### Software Engineer • ML Systems • Full-Stack Engineer
 
